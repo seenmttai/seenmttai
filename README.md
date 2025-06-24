@@ -1,11 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=seenmttai&fontSize=80&rotate=-2&fontAlignY=38&fontColor=auto&color=timeGradient&desc=Practical%20Projects%20%7C%20Cutting-Edge%20AI%20%7C%20Full-Stack%20Solutions&descSize=20&descAlignY=65&animation=twinkling" width="100%" />
   
-  <div align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1¢er=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%8F%97%EF%B8%8F;AI+%26+ML+Engineer+%F0%9F%A4%96;Creator+of+Practical+Tools+%F0%9F%9A%80" alt="Typing SVG" />
-    </a>
-  </div>
+
   
   <br>
   
@@ -244,7 +240,7 @@
         <p>Led workshops & mentored developers</p>
       </td>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="50" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="50" />
         <h4>🎯 Fake News Detector AI</h4>
         <p><strong>IIT BHU Hackathon</strong></p>
         <p>99.79% accuracy model</p>
